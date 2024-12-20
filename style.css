@@ -1,0 +1,62 @@
+.body{
+    margin: 0;
+
+}
+.top{
+    background-image: url(top.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 100vh;
+    text-align: center;
+
+
+}
+
+.title {
+    text-align: center;
+    font-size: 75px;
+    line-height: 102px;
+    font-weight: 800;
+    padding-top: 466px;
+    font-family: "Open Sans", sans-serif;
+    width: 779px;
+    margin: 0 auto;
+}
+
+.description {
+    text-align: center;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400px;
+    font-family: "Open Sans", sans-serif;
+    width: 569px;
+    margin: 0 auto;
+    
+}
+.btn {
+    text-align: center;
+    background-color:#00A651; 
+    color:#fff;
+    padding-right: 22px;
+    padding-left: 22px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 16.8px;
+    border: 0px;
+    border-radius: 30px;
+
+}
+.gg{
+    text-align: center;
+}
+
+
+.box4-image{
+   width: 36px;
+   height: 36px;
+   top: 53px;
+   left: 1466p;
+
+    
+}
